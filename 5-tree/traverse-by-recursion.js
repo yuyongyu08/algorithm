@@ -1,7 +1,5 @@
 import tree from './case.js'
 
-// console.log(tree);
-
 function preOrderTraverse(tree){
     if(tree){
         console.log(tree.value);

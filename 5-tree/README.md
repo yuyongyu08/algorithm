@@ -1,5 +1,8 @@
 ## 树
 https://juejin.cn/post/7019221858079735815
+
+
+![](../assets/binary-tree.png)
 遍历：
 
 1. 广度优先遍历（breadth first traversal）
