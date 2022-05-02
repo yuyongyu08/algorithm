@@ -1,5 +1,5 @@
 ## 栈
-`先进后出 (LIFO)`
+`先进后出 (LIFO，Late In First Out)`
 
 方法：
 * 入栈：push()

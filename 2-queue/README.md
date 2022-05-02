@@ -1,5 +1,5 @@
 ## 队列
-`先进先出 (FIFO / First In First Out) `
+`先进先出 (FIFO，First In First Out) `
 
 1. 默认队列（Queue）
     * 入列：enqueue()
